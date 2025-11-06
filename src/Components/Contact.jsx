@@ -40,7 +40,7 @@ const Contact = () => {
 
                 <div>
                     <h3>Visit Our Bar</h3>
-                    <p>The Leonardo, 75 Maude Street, 57th Floor, Johannesburg, 2196</p>
+                        <p>The Leonardo, 75 Maude Street, 57th Floor, Johannesburg, 2196</p>
                 </div>
 
                 <div>
