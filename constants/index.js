@@ -21,13 +21,13 @@ const cocktailLists = [
     {
         name: "Chapel Hill Shiraz",
         country: "AU",
-        detail: "Battle",
+        detail: "Bottle",
         price: "R180",
     },
     {
         name: "Caten Malbee",
         country: "AU",
-        detail: "Battle",
+        detail: "Bottle",
         price: "R850",
     },
     {
@@ -48,13 +48,13 @@ const mockTailLists = [
     {
         name: "Tropical Bloom",
         country: "US",
-        detail: "Battle",
+        detail: "Bottle",
         price: "R180",
     },
     {
         name: "Passion fruit Mint",
         country: "US",
-        detail: "Battle",
+        detail: "Bottle",
         price: "R850",
     },
     {
